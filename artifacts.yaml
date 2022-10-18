@@ -1,3 +1,6 @@
+my-model:
+  path: models/my-model.h5
+  type: model
 my-model-1:
   path: models/model.h5
   type: model
